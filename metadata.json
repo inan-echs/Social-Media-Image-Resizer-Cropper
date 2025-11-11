@@ -1,0 +1,5 @@
+{
+  "name": "Social Media Image Resizer & Cropper",
+  "description": "A modern, responsive tool to instantly crop and resize images to the exact dimensions required for major social media platforms like Instagram, Twitter, and YouTube, using the pure JavaScript Canvas API.",
+  "requestFramePermissions": []
+}
